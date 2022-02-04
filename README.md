@@ -2,7 +2,7 @@
 
 This is a POC for a `Falco Plugin` allowing to gather logs and trigger events for `k8s audit` of a `EKS Cluster`. It scrapes last logs for `EKS` from `Cloudwatch Logs`, parse them and send them to `Plugin Framework` with correct fields.
 
-> :warning: This is a POC, don't use in Production, join us on Slack **kubernetes#falco** to discuss about.
+> :warning: This is a POC, don't use in Production, join us on Slack **kubernetes#falco** to discuss in more detail
 
 
 ## Requirements
